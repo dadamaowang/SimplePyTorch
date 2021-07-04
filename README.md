@@ -16,7 +16,7 @@ Machine Learning is a technology to realize AI
 
 In the field of Machine Learning ,there are several method, including Deep Learning.
 
-![README01](dadamaowang/PytorchLeadingIn/pics/README01.PNG)
+![README01](https://github.com/dadamaowang/PytorchLeadingIn/tree/main/pics/README01.PNG)
 
 representation learning: learning representations of the data that make it easier to extract useful information when building classifiers or other predictors.
 
@@ -33,7 +33,7 @@ milieu n.周围环境
 
 
 
-![README02](dadamaowang/PytorchLeadingIn/pics/README02.PNG)
+![README02](https://github.com/dadamaowang/PytorchLeadingIn/tree/main/pics/README02.PNG)
 
 
 
